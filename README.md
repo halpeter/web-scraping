@@ -1,4 +1,4 @@
-# web-scraping-challenge
+# Web Scraping
 
 ## Background
 
@@ -6,7 +6,7 @@ In this project, I built a web application that scrapes various websites for dat
 
 ## Step 1 - Scraping
 
-I completed my initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter. All of the below described scraping and analysis can be seen in `mission_to_mars.ipynb`.
+I completed my initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter. All of the below described scraping and analysis can be seen [here](Missions_to_Mars/mission_to_mars.ipynb).
 
 ### NASA Mars News
 
